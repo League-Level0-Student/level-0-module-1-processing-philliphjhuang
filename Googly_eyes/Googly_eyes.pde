@@ -13,7 +13,7 @@ ellipse(750,250,250,125);
 if(mouseX<75){
  x=250;
  else if(mouseX>300)
- x=250
+ x=250;
  else
  x=mouseX;
 }
